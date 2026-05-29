@@ -14,7 +14,7 @@ Built with Python, Plotly, Seaborn, and Streamlit.
 ## Screenshot
 
 ![survey-visualizer](survey_vis_2.png)
-![survey-visualizer](survey_vis_3.png
+![survey-visualizer](survey_vis_3.png)
 ![survey-visualizer](survey_vis_4.png)
 ---
 
