@@ -1,0 +1,51 @@
+respondent_id,age_group,gender,region,education,q1_satisfaction,q2_recommend,q3_ease_of_use,q4_value_for_money,q5_support_quality,q6_overall_experience,nps_score
+1,25-34,Female,North,Bachelor's,4,5,3,4,5,4,9
+2,35-44,Male,South,Master's,3,4,4,3,4,3,7
+3,18-24,Female,East,High School,5,5,5,5,5,5,10
+4,45-54,Male,West,Bachelor's,2,3,2,2,3,2,4
+5,35-44,Female,North,PhD,4,4,4,4,4,4,8
+6,25-34,Male,South,Bachelor's,5,5,4,5,4,5,9
+7,55+,Female,East,High School,3,3,3,3,3,3,6
+8,18-24,Male,West,Some College,4,5,5,4,5,4,8
+9,45-54,Female,North,Master's,5,5,5,5,5,5,10
+10,25-34,Male,South,Bachelor's,3,4,3,4,3,4,7
+11,35-44,Female,East,Bachelor's,4,4,4,3,4,4,8
+12,18-24,Male,West,High School,5,5,5,5,4,5,10
+13,55+,Female,North,Master's,2,2,2,2,2,2,3
+14,25-34,Male,South,Bachelor's,4,4,3,4,4,4,8
+15,35-44,Female,East,PhD,5,5,5,5,5,5,10
+16,45-54,Male,West,Bachelor's,3,3,4,3,3,3,6
+17,18-24,Female,North,Some College,4,5,5,4,5,5,9
+18,25-34,Male,South,Bachelor's,4,4,4,4,4,4,8
+19,35-44,Female,East,Master's,3,3,3,3,3,3,5
+20,55+,Male,West,High School,5,4,4,5,4,4,8
+21,25-34,Female,North,Bachelor's,4,5,4,4,5,4,9
+22,45-54,Male,South,Master's,2,3,3,2,3,2,4
+23,18-24,Female,East,High School,5,5,5,5,5,5,10
+24,35-44,Male,West,Bachelor's,3,4,3,3,4,3,7
+25,25-34,Female,North,PhD,4,4,5,4,4,4,8
+26,55+,Male,South,Bachelor's,3,3,3,3,3,3,6
+27,18-24,Female,East,Some College,5,5,5,5,5,5,10
+28,45-54,Male,West,Master's,4,4,4,4,4,4,8
+29,35-44,Female,North,Bachelor's,2,2,2,2,2,2,3
+30,25-34,Male,South,High School,4,4,4,4,4,4,8
+31,18-24,Female,East,Some College,5,5,4,5,4,5,9
+32,55+,Male,West,Bachelor's,3,3,3,3,3,3,6
+33,35-44,Female,North,Master's,4,5,5,4,5,5,9
+34,25-34,Male,South,Bachelor's,4,4,4,4,4,4,8
+35,45-54,Female,East,PhD,5,5,5,5,5,5,10
+36,18-24,Male,West,High School,3,4,4,3,4,4,7
+37,35-44,Female,North,Bachelor's,4,4,3,4,3,4,8
+38,55+,Male,South,Some College,2,2,2,2,2,2,3
+39,25-34,Female,East,Master's,5,5,5,5,5,5,10
+40,45-54,Male,West,Bachelor's,3,3,4,3,4,3,6
+41,18-24,Female,North,High School,4,5,5,4,5,4,9
+42,35-44,Male,South,Bachelor's,4,4,4,4,4,4,8
+43,25-34,Female,East,Master's,5,5,5,5,5,5,10
+44,55+,Male,West,Bachelor's,3,3,3,3,3,3,5
+45,18-24,Female,North,Some College,4,4,5,4,5,5,9
+46,45-54,Male,South,PhD,4,4,4,4,4,4,8
+47,35-44,Female,East,Bachelor's,3,4,3,3,4,3,7
+48,25-34,Male,West,High School,5,5,5,5,5,5,10
+49,55+,Female,North,Master's,2,3,2,2,3,2,4
+50,18-24,Male,South,Some College,4,5,4,4,5,4,9
