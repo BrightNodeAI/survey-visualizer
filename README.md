@@ -12,9 +12,9 @@ Built with Python, Plotly, Seaborn, and Streamlit.
 ---
 
 ## Screenshot
-
-Add a screenshot of your running dashboard here after launching the app.
-
+![survey-visualizer](survey_vis_1.png)
+![survey-visualizer](survey_vis_2.png)
+![survey-visualizer](survey_vis_3.png)
 ---
 
 ## What It Does
